@@ -1,0 +1,12 @@
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #f8f9fa; 
+    margin: 0 10px; 
+  }
+  
